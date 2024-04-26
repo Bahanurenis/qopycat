@@ -1,0 +1,8 @@
+{
+    "files": [
+        "qopycat/src/__init__.py",
+        "qopycat/src/__main__.py",
+        "qopycat/src/test.py",
+        "qopycat/ui/test.qml"
+    ]
+}
